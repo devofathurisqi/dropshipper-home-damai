@@ -1,0 +1,13 @@
+{
+  "name": "home-damai-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "import": "node scripts/import-catalogue.mjs",
+    "check": "node --check dist/app.js && node --check dist/catalogue.js && node --check dist/products.js && node --check dist/cart.js && node --check dist/cart-ui.js",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
