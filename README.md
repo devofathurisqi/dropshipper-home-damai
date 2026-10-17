@@ -21,7 +21,7 @@ Buka http://127.0.0.1:4330. Hentikan dengan Ctrl+C. Folder `dist` adalah hasil s
 - Detail produk dengan galeri, pilihan warna, perbesar foto, dan tautan WhatsApp berisi pilihan pelanggan.
 - Keranjang untuk beberapa produk/warna, pengaturan jumlah, hapus item, dan subtotal harga eceran. Pilihan tersimpan di browser setelah refresh.
 - Checkout dengan data penerima, alamat, kurir pilihan, catatan, serta pratinjau pesan. Tombol checkout membuka WhatsApp Home Damai dengan seluruh rincian otomatis; pelanggan memeriksa lalu mengirim pesannya di WhatsApp.
-- Nomor Home Damai: **085198361315**. Konfigurasi utama di `dist/config.js`. Instagram belum ditampilkan karena belum diberikan.
+- Nomor Home Damai: **085701983872**. Konfigurasi utama di `dist/config.js`. Instagram belum ditampilkan karena belum diberikan.
 - Tata letak responsif, dialog native, label aksesibel, dukungan reduced motion.
 
 ## Memperbarui katalog
