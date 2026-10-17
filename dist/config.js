@@ -1,6 +1,6 @@
 export default {
   brand: 'Home Damai',
-  whatsapp: '625701988372',
+  whatsapp: '6285701988372',
   whatsappDisplay: '0857-0198-8372',
   instagram: null,
   storageKey: 'home-damai-favorites-v1',
